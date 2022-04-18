@@ -5,12 +5,11 @@ import Home from '@/views/Home.vue'
 const routes = [
   {
     meta: {
-      title: 'Select style',
+      title: 'Dashboard',
       fullScreen: true
     },
     path: '/',
-    name: 'style',
-    component: Style
+    redirect: '/dashboard'
   },
   {
     // Document title tag

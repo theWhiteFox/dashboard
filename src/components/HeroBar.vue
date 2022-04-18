@@ -7,9 +7,9 @@ import JbButton from '@/components/JbButton.vue'
 
 const store = useStore()
 
-const lightBorderStyle = computed(() => store.state.lightBorderStyle)
+const lightBorderStyle = computed(() => store.state.darkMode)
 
-const darkMode = computed(() => store.state.darkMode)
+const darkMode = computed(() => store.state.lightBorderStyle)
 
 const darkModeToggle = () => {
   store.dispatch('darkMode')
