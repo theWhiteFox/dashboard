@@ -162,3 +162,6 @@ The issue list is reserved exclusively for bug reports and feature requests. Tha
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vue.js 3](https://v3.vuejs.org/)
 - [Vite](https://vitejs.dev)
+- [CLI Vue install](https://cli.vuejs.org/guide/installation.html)
+- [CLI Vue install](https://cli.vuejs.org/guide/installation.html)
+- [NPM Vue CLI Pug](https://www.npmjs.com/package/vue-cli-plugin-pug)
